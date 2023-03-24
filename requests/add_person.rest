@@ -1,7 +1,8 @@
 POST http://localhost:3001/api/persons
 Content-Type: application/json
 
-{
-    "name": "Ville Partanen",
+{   
+    "id": 5,
+    "name": "Pöpö",
     "number": "040-123456"
 }
